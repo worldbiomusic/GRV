@@ -1,0 +1,13 @@
+기본 사용법
+C:\Users\ljh99\Desktop\GRV\Gender_Recognition_by_Voice\grv\dataset\input_data\voice
+에 음성파일(.wav)넣고
+
+gui/main_frame/Main_Frame.java 실행하면 신경망 구성되면서 실행됨
+
+gui나오고 왼쪽 버튼 활성화되면 신경망 구성 완료된 것
+
+※음성파일은 신경망에 입력후 바로 삭제하게 되어있음.
+※급하게 제작되어서 코드가 좀 복잡하게 됨
+※경로가 다 직접 설정되어있어서 나중에 바꾸기 힘듬
+(java랑, R소스코드도 다 직접적인 경로 설정해야 함)
+
